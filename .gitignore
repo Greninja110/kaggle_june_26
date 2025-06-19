@@ -1,4 +1,4 @@
 .venv/
-1_xgboosr/logs/
-1_xgboosr/models/
-1_xgboosr/output/
+1_xgboost/logs/
+1_xgboost/models/
+1_xgboost/output/
