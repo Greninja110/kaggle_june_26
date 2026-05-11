@@ -1,0 +1,9 @@
+*.csv linguist-vendored
+*.tsv linguist-vendored
+*.json linguist-vendored
+*.xml linguist-vendored
+*.yaml linguist-vendored
+*.yml linguist-vendored
+*.toml linguist-vendored
+*.txt linguist-vendored
+*.ipynb linguist-vendored
